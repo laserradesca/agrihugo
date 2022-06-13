@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://laserradesca.github.io/agrihugo"
 defaultContentLanguage = 'it'
 
 [languages]
