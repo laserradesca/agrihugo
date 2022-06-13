@@ -1,0 +1,31 @@
+<head>
+
+    <meta charset="utf-8" />
+    <title>{{.Title}}</title>
+
+    {{ "<!--mobile responsive meta-->" | safeHTML }}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+
+    {{hugo.Generator}}
+    {{ "<!-- Critical CSS -->" | safeHTML }}
+    {{$style :=  resources.Get "scss/critical.scss" | resources.ToCSS | resources.Minify }}
+    <link href="{{ $style.Permalink }}" rel="stylesheet" />
+
+    {{hugo.Generator}}
+    {{ "<!-- Non-Critical CSS -->" | safeHTML }}
+    {{$style :=  resources.Get "scss/non-critical.scss" | resources.ToCSS | resources.Minify }}
+    <link href="{{ $style.Permalink }}" rel="stylesheet" />
+
+    {{"<!-- Favicon -->" | safeHTML}}
+    <link rel="shortcut icon" href="{{"images/favicon.ico" | absURL}}" type="image/x-icon" />
+    <link rel="icon" href="{{"images/favicon.png" | absURL}}" type="image/x-icon" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+    integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+    crossorigin=""/>
+
+</head>

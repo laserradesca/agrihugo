@@ -1,0 +1,46 @@
+{{ $address := .Site.Params.address}}
+<section class="contact" id="contact">
+  <div>
+    <div class="row no-gutters">
+      <div class="col-lg-6">
+        <script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+        <div id = "map">
+        <script>
+           // Creating map options
+           var mapOptions = {
+              scrollWheelZoom: false,
+              center: [45.70645, 9.76604],
+              zoom: 13
+           }
+           
+           // Creating a map object
+           var map = new L.map('map', mapOptions);
+           
+           // Creating a Layer object
+           var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+           var marker = L.marker([45.70645, 9.76604]).addTo(map);
+           
+           // Adding layer to the map
+           map.addLayer(layer);
+        </script>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="contact-aria">
+          <h3>
+            {{ $address.address | safeHTML }}
+          </h3>
+          <ul>
+            <li> <a href="mailto:{{ $address.email }}">{{ $address.email }}</a></li>
+            <li><a href="tel:{{ $address.phone}}">{{ $address.phone }}</a></li>
+          </ul>
+          <p>
+            {{ $address.openingDesc }}
+          </p>
+          <p>{{ $address.openingHours }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

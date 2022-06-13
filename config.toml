@@ -1,0 +1,39 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = 'it'
+
+[languages]
+  [languages.it]
+    title = "La Serradesca | Società agricola"
+    languageName = "Italiano"
+    weight = 1
+    [languages.it.menu]
+      [[languages.it.menu.main]]
+      name = "Chi siamo"
+      url = "/about/"
+      weight = 1
+    [languages.it.params]
+      [languages.it.params.address]
+        address = "località Casotto 1 <br> Torre de' Roveri (BG)"
+        email = "info@laserradesca.com"
+        openingHours = "Chiamaci o seguici sui social per sapere le aperture stagionali"
+        phone = "342 6385086"
+
+  [languages.en]
+    title = "La Serradesca | WHATA IS IT???"
+    languageName = "English"
+    weight = 2
+    [lanugages.en.menu]
+      [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 1
+    [languages.en.params]
+      [languages.en.params.address]
+        address = "località Casotto 1 <br> Torre de' Roveri (BG) <br> Italy"
+        email = "info@laserradesca.com"
+        openingHours = "Call us to know opening hoursssssssss"
+        phone = "+39 342 6385086"
+
+[params]
+  logo = "images/logo-leaf.png"
+

@@ -1,0 +1,14 @@
+---
+enable: true
+title: "Il Team"
+subtitle: >
+          Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, 
+          convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.
+member:
+  - name: "Loz"
+    post: "Capo"
+    image: "images/team/loz.jpg"
+  - name: "Paolo"
+    post: "Operaio"
+    image: "images/team/inno.jpg"
+---
