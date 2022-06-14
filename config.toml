@@ -17,6 +17,8 @@ defaultContentLanguage = 'it'
         email = "info@laserradesca.com"
         openingHours = "Chiamaci o seguici sui social per sapere le aperture stagionali"
         phone = "342 6385086"
+      [languages.it.params.flag]
+        flag = "images/flags/it.svg"
 
   [languages.en]
     title = "La Serradesca | WHATA IS IT???"
@@ -33,6 +35,8 @@ defaultContentLanguage = 'it'
         email = "info@laserradesca.com"
         openingHours = "Call us to know opening hoursssssssss"
         phone = "+39 342 6385086"
+      [languages.en.params.flag]
+        flag = "images/flags/au.svg"
 
 [params]
   logo = "images/logo-leaf.png"

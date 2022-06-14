@@ -2,8 +2,8 @@
 <header class="header">
     <nav class="main-nav navbar navbar-expand-lg {{ if not $.IsHome }}main-nav-colored{{ end }}">
       <div class="container-fluid">
-        <a href="{{.Site.BaseURL}}" class="navbar-brand">
-          <img src="{{ .Site.Params.logo | absURL}}" alt="site-logo" />
+        <a href="{{.Site.BaseURL | relLangURL }}" class="navbar-brand">
+          <img src="{{ .Site.Params.logo | relURL}}" alt="site-logo" />
         </a>
         <div
           class="collapse navbar-collapse nav-list"
@@ -14,7 +14,7 @@
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
                   <li class="nav-item {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}">
-                      <a class="nav-link scroll-to" href="{{ .URL | absLangURL }}">
+                      <a class="nav-link scroll-to" href="{{ .URL | relLangURL}}">
                           {{ .Pre }}
                           <span>{{ .Name }}</span>
                       </a>
@@ -26,10 +26,10 @@
             {{ if .Site.IsMultiLingual }}
 	            {{ range .Site.Languages }}
 	            {{ if eq . $.Site.Language }}
-		            <li><a href="#" class="active language">{{ .LanguageName }}</a></li>
+		            <!-- <li><a href="#" class="active language">{{ .LanguageName }}</a></li> -->
 	            {{ else }}
 		            {{ range $.Translations }}
-		            <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+		            <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}<img src="{{ .Site.Params.Flag.flag | relURL}}" alt="site-logo" /></a></li>
 		            {{ end }}
 	            {{ end }}
 	            {{ end }}
