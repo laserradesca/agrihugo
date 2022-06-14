@@ -5,36 +5,44 @@
         <a href="{{.Site.BaseURL | relLangURL }}" class="navbar-brand">
           <img src="{{ .Site.Params.logo | relURL}}" alt="site-logo" />
         </a>
+
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mainNav" aria-expanded="false">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
         <div
           class="collapse navbar-collapse nav-list"
           id="mainNav"
         >
 
-        <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav ml-auto">
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
                   <li class="nav-item {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}">
-                      <a class="nav-link scroll-to" href="{{ .URL | relLangURL}}">
+                      <a class="nav-link scroll-to" href="{{ .URL | relLangURL }}">
                           {{ .Pre }}
                           <span>{{ .Name }}</span>
                       </a>
                   </li>
           {{ end }}
-      </ul>
-  
-          <ul>
-            {{ if .Site.IsMultiLingual }}
-	            {{ range .Site.Languages }}
-	            {{ if eq . $.Site.Language }}
-		            <!-- <li><a href="#" class="active language">{{ .LanguageName }}</a></li> -->
-	            {{ else }}
-		            {{ range $.Translations }}
-		            <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}<img src="{{ .Site.Params.Flag.flag | relURL}}" alt="site-logo" /></a></li>
-		            {{ end }}
-	            {{ end }}
-	            {{ end }}
-            {{ end }}
           </ul>
+
+          <div>
+            {{ if .Site.IsMultiLingual }}
+            {{ range .Site.Languages }}
+            {{ if eq . $.Site.Language }}
+              <!-- <li><a href="#" class="active language">{{ .LanguageName }}</a></li> -->
+            {{ else }}
+              {{ range $.Translations }}
+              <!-- <li class = language-switcher-item><a href="{{ .Permalink }}" class="language-switcher-item-link">{{ .Language.LanguageName }}</a></li> -->
+                <a href="{{ .Permalink }}" class="language-flag-link"><img src="{{ .Site.Params.Flag.flag | relURL}}" alt="language-flag" /></a>
+              {{ end }}
+            {{ end }}
+            {{ end }}
+           {{ end }}
+          </div>
         </div>
       </div>
     </nav>

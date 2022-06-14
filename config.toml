@@ -9,7 +9,7 @@ defaultContentLanguage = 'it'
     [languages.it.menu]
       [[languages.it.menu.main]]
       name = "Chi siamo"
-      url = "/about/"
+      url = "about/"
       weight = 1
     [languages.it.params]
       [languages.it.params.address]
@@ -18,7 +18,7 @@ defaultContentLanguage = 'it'
         openingHours = "Chiamaci o seguici sui social per sapere le aperture stagionali"
         phone = "342 6385086"
       [languages.it.params.flag]
-        flag = "images/flags/it.svg"
+        flag = "images/flags/it.jpg"
 
   [languages.en]
     title = "La Serradesca | WHATA IS IT???"
@@ -27,7 +27,7 @@ defaultContentLanguage = 'it'
     [lanugages.en.menu]
       [[languages.en.menu.main]]
       name = "About"
-      url = "/about/"
+      url = "about/"
       weight = 1
     [languages.en.params]
       [languages.en.params.address]
@@ -36,7 +36,7 @@ defaultContentLanguage = 'it'
         openingHours = "Call us to know opening hoursssssssss"
         phone = "+39 342 6385086"
       [languages.en.params.flag]
-        flag = "images/flags/au.svg"
+        flag = "images/flags/au.jpg"
 
 [params]
   logo = "images/logo-leaf.png"
