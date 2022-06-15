@@ -2,9 +2,9 @@
 enable: true
 member:
   - name: "Loz"
-    post: "Capo"
+    post: "Boss"
     image: "images/team/loz.jpg"
   - name: "Paolo"
-    post: "Operaio"
+    post: "Worker"
     image: "images/team/inno.jpg"
 ---

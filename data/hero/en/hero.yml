@@ -4,4 +4,9 @@ enable: true
 subtitle: >
         Farm in Torre de' Roveri
 heroBGimg: "images/hero/cascina.jpg"
+facebookicon: "images/hero/facebook_white.png"
+facebookurl: "https://www.facebook.com/laserradesca/"
+instagramicon: "images/hero/instagram_white.png"
+instagramurl: "https://www.instagram.com/laserradesca/"
 ---
+

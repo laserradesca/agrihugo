@@ -4,4 +4,8 @@ enable: true
 subtitle: >
         Società agricola
 heroBGimg: "images/hero/cascina.jpg"
+facebookicon: "images/hero/facebook_white.png"
+facebookurl: "https://www.facebook.com/laserradesca/"
+instagramicon: "images/hero/instagram_white.png"
+instagramurl: "https://www.instagram.com/laserradesca/"
 ---

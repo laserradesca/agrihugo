@@ -6,7 +6,7 @@
         <h1>{{.Title}}</h1>
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+            <li class="breadcrumb-item"><a href="{{ .Site.BaseURL | relLangURL }}">Home</a></li>
             <li class="breadcrumb-item active">{{.Title}}</li>
           </ol>
         </nav>
@@ -38,4 +38,5 @@
     </div>
   </div>
 </section>
+{{ partial "address.html" . }}
 {{end}}

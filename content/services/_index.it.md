@@ -1,3 +1,3 @@
 ---
-title: "La nostra offertaS"
+title: "La nostra offerta"
 ---

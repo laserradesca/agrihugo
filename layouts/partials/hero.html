@@ -8,6 +8,14 @@
             <p>
               {{.hero.subtitle}}
             </p>
+
+            <div>
+              <ul class="social-media">
+                <li id="ciao" class="social-media-item"><a href="{{ .hero.facebookurl }}" class="social-media-item-link"><img src="{{ .hero.facebookicon | absURL }}" alt="site-logo" /></a></li>
+                <li class="social-media-item"><a href="{{ .hero.instagramurl }}" class="social-media-item-link"><img src="{{ .hero.instagramicon | relURL}}" alt="language-flag" /></a></li>
+              </ul>
+            </div>
+
           </div>
         </div>
       </div>
