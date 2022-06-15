@@ -11,6 +11,14 @@ defaultContentLanguage = 'it'
       name = "Chi siamo"
       url = "about/"
       weight = 1
+      [[languages.it.menu.main]]
+      name = "La nostra offerta"
+      url = "services/"
+      weight = 2
+      [[languages.it.menu.main]]
+      name = "Contattaci"
+      url = "contact/"
+      weight = 3
     [languages.it.params]
       [languages.it.params.address]
         address = "località Casotto 1 <br> Torre de' Roveri (BG)"
@@ -29,6 +37,14 @@ defaultContentLanguage = 'it'
       name = "About"
       url = "about/"
       weight = 1
+      [[languages.en.menu.main]]
+      name = "Our offer"
+      url = "services/"
+      weight = 2
+      [[languages.en.menu.main]]
+      name = "Contact us"
+      url = "contact/"
+      weight = 3
     [languages.en.params]
       [languages.en.params.address]
         address = "località Casotto 1 <br> Torre de' Roveri (BG) <br> Italy"

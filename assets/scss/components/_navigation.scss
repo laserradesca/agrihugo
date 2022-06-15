@@ -2,7 +2,7 @@
   padding: 30px 35px 20px;
   transition: all 0.5s ease-in-out;
   position: fixed;
-  z-index: 99;
+  z-index: 100000;
   top: 0;
   width: 100%;
   @include desktop {
@@ -23,7 +23,7 @@
         padding-left: 20px;
         font-weight: 500;
         font-size: 14px;
-        padding-right: 50px;
+        padding-right: 20px;
         letter-spacing: 1px;
         position: relative;
         font-family: $primary-font;
@@ -160,4 +160,9 @@
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.nav-spacer {
+    height: 20px;
+    width: 50px;
 }
