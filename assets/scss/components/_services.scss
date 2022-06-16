@@ -1,5 +1,5 @@
 .service {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-bottom: 100px;
     @include tablet {
       padding-top: 60px;
@@ -120,7 +120,7 @@
     }
   
     &-title {
-      padding-bottom: 10px;
+      padding-bottom: 50px;
       padding-top: 20px;
   
       h2 {
