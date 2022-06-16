@@ -7,7 +7,12 @@ sliderImage:
   - image: "images/about/1.jpg"
   - image: "images/about/2.jpg"
   - image: "images/about/3.jpg"
+placeholderName: "Your Name"
+placeholderMail: "Your Email"
+placeholderText: "Message here..."
+formConsent: "I agree that my submitted data are being used and stored for some time."
 ---
+
 ## This Is Our Story.
 
 We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new

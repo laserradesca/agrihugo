@@ -8,5 +8,8 @@
 {{ $js := resources.Get "js/slick.min.js" }}
 <script src="{{ $js.RelPermalink }}"></script>
 
+{{ $js := resources.Get "js/formhandler.js" | minify }}
+<script src="{{ $js.RelPermalink }}"></script>
+
 {{ $js := resources.Get "js/script.js" | minify }}
 <script src="{{ $js.RelPermalink }}"></script>
