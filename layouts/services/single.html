@@ -6,13 +6,13 @@
         <div class="serviceitem-title">
           <h2>{{.Title}}</h2>
         </div>
-        <div class="serviceitem-meta">
+        <!-- <div class="serviceitem-meta">
           <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> in 
             {{ range (.GetTerms "tags") }}
               <a class="tags" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
             {{ end }}
           </p>
-        </div>
+        </div> -->
         <div class="serviceitem-image">
           <img src="{{ .Params.featureImage | absURL}}" alt="feature-image">
         </div>
