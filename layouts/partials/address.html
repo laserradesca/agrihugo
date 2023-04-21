@@ -10,7 +10,7 @@
               scrollWheelZoom: false,
               center: [45.70645, 9.76604],
               dragging: !L.Browser.mobile,
-              zoom: 13
+              zoom: 10
            }
            
            // Creating a map object
@@ -28,13 +28,13 @@
       </div>
       <div class="col-lg-6">
         <div class="contact-aria">
-          <p>{{ $address.openingDesc }}</p>
-          <p>{{ $address.openingHours  | safeHTML }}</p>
-          <p>{{ $address.toBook  | safeHTML }}</p>
+          <p>{{ $address.openingDesc }}
+          {{ $address.openingHours | safeHTML }}</p>
+          <p>{{ $address.toBook}}
           <ul>
             <li> <a href="mailto:{{ $address.email }}">{{ $address.email }}</a></li>
             <li><a href="tel:{{ $address.phone}}">{{ $address.phone }}</a></li>
-          </ul>
+          </ul></p>
           <h3>
             {{ $address.address | safeHTML }}
           </h3>
