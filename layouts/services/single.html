@@ -19,6 +19,11 @@
         <div class="serviceitem-body">
           {{ .Content }}
         </div>
+        <div class="site-project-single-image">
+            {{ range .Params.images }}
+            <img src="{{ . | absURL }}" alt="service image">
+            {{ end }}
+        </div>
       </div>
     </div>
   </div>

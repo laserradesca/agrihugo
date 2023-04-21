@@ -30,11 +30,18 @@
         <div class="contact-aria">
           <p>{{ $address.openingDesc }}
           {{ $address.openingHours | safeHTML }}</p>
-          <p>{{ $address.toBook}}
+          <p>
           <ul>
             <li> <a href="mailto:{{ $address.email }}">{{ $address.email }}</a></li>
             <li><a href="tel:{{ $address.phone}}">{{ $address.phone }}</a></li>
+            <li>and join our <a href="{{ $address.newsletter}}">newsletter</a></li>
           </ul></p>
+          <div>
+            <ul class="social-media">
+              <li id="ciao" class="social-media-item"><a href="{{ $address.facebookurl | relURL}}" class="social-media-item-link"><img src="{{ $address.facebookicon | relURL }}" alt="facebook" /></a></li>
+              <li class="social-media-item"><a href="{{ $address.instagramurl }}" class="social-media-item-link"><img src="{{ $address.instagramicon | relURL}}" alt="instagram" /></a></li>
+            </ul>
+          </div>
           <h3>
             {{ $address.address | safeHTML }}
           </h3>
