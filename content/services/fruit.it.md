@@ -1,7 +1,7 @@
 ---
 title: "Raccolta in campo di piccoli frutti"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/services/frutta.jpg
+featureImage: images/freshfood_2.jpg
 tags: [ "boh"]
 ---
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?

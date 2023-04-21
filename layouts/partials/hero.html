@@ -1,5 +1,5 @@
 {{ with index .Site.Data.hero .Site.Language.Lang }}
-  <section class="hero" style="background-image: url( {{ .hero.heroBGimg | relURL }} );">
+  <section class="hero" style="background-image: url( '{{ .hero.heroBGimg | relURL }}' );">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-12">

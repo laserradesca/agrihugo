@@ -1,0 +1,11 @@
+---
+title : "Qualcosa"
+enable: true
+subtitle: >
+        Cascina La Cà is a place for curious people to enjoy authentic farm produce and experience first-hand how it is grown, harvested and prepared. Our workshops, courses and events are run in both English and Italian languages, and focus on the local environment in a global context, encouraging a deeper understanding of how our world works, and inspiring the courage to think differently and act more thoughtfully.
+galleryImage: 
+ - image: "images/gallery/gallery01.jpg"
+ - image: "images/gallery/gallery02.jpg"
+ - image: "images/gallery/gallery03.jpg"
+ - image: "images/gallery/gallery04.jpg"
+---

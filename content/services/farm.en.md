@@ -1,7 +1,7 @@
 ---
-title: "Didactic Farm"
+title: "Farm Learning"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/services/didattica.jpg
+featureImage: images/farmlearning_1.jpg
 tags: [ "boh"]
 ---
   ENGLISH Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?

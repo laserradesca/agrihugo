@@ -28,17 +28,16 @@
       </div>
       <div class="col-lg-6">
         <div class="contact-aria">
-          <h3>
-            {{ $address.address | safeHTML }}
-          </h3>
+          <p>{{ $address.openingDesc }}</p>
+          <p>{{ $address.openingHours  | safeHTML }}</p>
+          <p>{{ $address.toBook  | safeHTML }}</p>
           <ul>
             <li> <a href="mailto:{{ $address.email }}">{{ $address.email }}</a></li>
             <li><a href="tel:{{ $address.phone}}">{{ $address.phone }}</a></li>
           </ul>
-          <p>
-            {{ $address.openingDesc }}
-          </p>
-          <p>{{ $address.openingHours }}</p>
+          <h3>
+            {{ $address.address | safeHTML }}
+          </h3>
         </div>
       </div>
     </div>

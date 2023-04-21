@@ -3,7 +3,7 @@ defaultContentLanguage = 'it'
 
 [languages]
   [languages.it]
-    title = "La Serradesca | Società agricola"
+    title = "Cascina La Cà | La Serradesca Società Agricola"
     languageName = "Italiano"
     weight = 1
     [languages.it.menu]
@@ -29,7 +29,7 @@ defaultContentLanguage = 'it'
         flag = "images/flags/it.jpg"
 
   [languages.en]
-    title = "La Serradesca | WHATA IS IT???"
+    title = "Cascina La Cà | La Serradesca Società Agricola"
     languageName = "English"
     weight = 2
     [lanugages.en.menu]
@@ -47,13 +47,15 @@ defaultContentLanguage = 'it'
       weight = 3
     [languages.en.params]
       [languages.en.params.address]
-        address = "località Casotto 1 <br> Torre de' Roveri (BG) <br> Italy"
+        address = "località Casotto 1 <br> Torre de' Roveri (BG), Italy"
         email = "info@laserradesca.com"
-        openingHours = "Call us to know opening hoursssssssss"
+        openingDesc = "Opening hours from 1st June 2023:"
+        toBook = "For info, or to set up a visit by appointment:"
+        openingHours = "<ul><li>Tuesdays 4pm - 8pm<li>Thursdays 4pm - 8pm<li>Saturdays 4pm - 8pm</ul>"
         phone = "+39 342 6385086"
       [languages.en.params.flag]
         flag = "images/flags/au.jpg"
 
 [params]
-  logo = "images/logo-leaf.png"
+  logo = "images/logos/logo-leaf.png"
   formspreeURL = "https://formspree.io/f/meqndazp"

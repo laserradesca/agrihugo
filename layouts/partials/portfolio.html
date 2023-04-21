@@ -1,0 +1,34 @@
+
+{{with index .Site.Data.serviceSection .Site.Language.Lang }}
+  {{ if .serviceSection.enable }}
+  <section class="site-project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>{{ .serviceSection.title }}</h2>
+            <p>{{ .serviceSection.subtitle }}</p>
+          </div>
+        </div>
+        {{ range first 30 (where $.Site.RegularPages "Type" "services") }}
+        <div class="col-lg-6 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+              <img src="{{ .Params.featureImage | relURL }}" alt="project-thumb">
+            </div>
+            <div class="site-project-item-content">
+
+              <h3>{{ .Title }}</h3>
+              <a href="{{ .Permalink }}" class="read-more">view project</a>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+<!--         <div class="col-12 text-center text-lg-left">
+          <a href="portfolio" class="site-project-cta">MORE WORKS</a>
+        </div> -->
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

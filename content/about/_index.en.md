@@ -1,16 +1,21 @@
 ---
-title: "Who we are"
+title: ""
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
-        Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
+        
 sliderImage:
-  - image: "images/about/1.jpg"
-  - image: "images/about/2.jpg"
-  - image: "images/about/3.jpg"
+  - image: "images/aboutus1.jpg"
+  - image: "images/aboutus2.jpg"
+  - image: "images/aboutus_beppe.jpg"
+  - image: "images/aboutus_inno.jpg"
+  - image: "images/aboutus_livmia.jpg"
 ---
 ## This Is Our Story.
 
-We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
-ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
-financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes
-you into new exciting spaces.
+We are Lauren, Paolo, and our three kids, Olivia, Mia and Beppe.
+
+Lauren was born and raised on the east coast of Australia. She moved to Bergamo in 2012 with Paolo after some stints living in Denmark, the UK, and in Sweden where she completed a Masters degree in Sustainable Development. From managing the crops and the bee yard, to the admin, sales and educational programs, Lauren has her hands on every part of the farm, but doesn’t do it all alone. 
+
+Paolo helps out.  
+
+Olivia, Mia and Beppe live on the farm with us, helping where they can, and giving us constant new perspectives.
