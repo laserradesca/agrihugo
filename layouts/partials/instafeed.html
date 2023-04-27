@@ -1,0 +1,15 @@
+{{ $dataJ := getJSON "https://profilepageimages.usecue.com/images/laserradesca/images.json" }}
+
+<ul id="instafeed" class="instafeed">
+  {{ range first 10 $dataJ }}
+    {{ $media_type := .media_type | lower }}
+    {{ $image_small := .image_small }}
+    {{ $permalink := .permalink }}
+    {{ $caption := .caption }}
+    <li style='background-image: url("{{ $image_small }}")' class='{{ $media_type }}'>
+        <a href="{{ $permalink }}" target="_blank" rel="noopener noreferrer" title="{{ $caption }}">
+            <img class="{{ $media_type }}" src="{{ $image_small }}" {{ with $caption }}alt="{{ . }}"{{ else }}alt=""{{ end }}>
+          </a>
+    </li>
+  {{ end }}
+</ul>

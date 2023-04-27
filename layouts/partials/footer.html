@@ -22,3 +22,6 @@
 
 {{ $js := resources.Get "js/script.js" | minify }}
 <script src="{{ $js.RelPermalink }}"></script>
+
+<!-- {{ $js := resources.Get "js/instafeed.js" | minify }}
+<script src="{{ $js.RelPermalink }}"></script> -->
