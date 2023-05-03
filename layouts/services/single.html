@@ -19,10 +19,14 @@
         <div class="serviceitem-body">
           {{ .Content }}
         </div>
-        <div class="site-project-single-image">
+        <div class="serviceitem-bottomimages">
+          <div class="row justify-content-center">
             {{ range .Params.images }}
-            <img src="{{ . | absURL }}" alt="service image">
+            <div class="col-lg-4 col-sm-6">
+              <img src="{{ . | absURL }}" alt="service image">
+            </div>
             {{ end }}
+          </div>
         </div>
       </div>
     </div>

@@ -1,9 +1,9 @@
 ---
 title: "Farm Learning"
 date: 2023-04-05T11:16:38+06:00
-featureImage: images/farmlearning_1.jpg
+featureImage: images/content/farmlearning/learning_hero.jpg
 tags: [ "boh"]
-images: ["images/farmlearning_2.jpg","images/farmlearning_3.jpg"]
+images: ["images/content/farmlearning/learning_1.jpg","images/content/farmlearning/learning_2.jpg","images/content/farmlearning/learning_3.jpg"]
 ---
 From kids to adults, we believe it’s important to stay curious about our surroundings: think about them in creative new ways, have the courage to challenge held opinions, and experiment with what at first may seem strange and difficult. 
 

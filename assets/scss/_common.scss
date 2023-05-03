@@ -1,3 +1,8 @@
+a {
+  font-weight: 600;
+  color: $primary-color;
+}
+
 .section {
     padding: 100px 0;
     @include desktop {

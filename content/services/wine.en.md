@@ -1,9 +1,9 @@
 ---
 title: "Our wine and our vineyard"
 date: 2023-02-06T11:16:38+06:00
-featureImage: images/vineyard_1.jpg
+featureImage: images/content/wine/wine_hero.jpg
 tags: [ "boh"]
-images: ["images/vineyard_2.jpg","images/vineyard_3.jpg"]
+images: ["images/content/wine/wine_1.jpg","images/content/wine/wine_2.jpg","images/content/wine/wine_3.jpg"]
 ---
 We produce three grape varieties particular to the Bergamo region for the production of Bergamasca IGT classified wine. IGT stands for Indicazione Geografica Tipica, and you can read more about what that means [here](https://www.flavoursholidays.co.uk/blog/italian-wine-classifications-doc-docg-igt-vdt/).
 

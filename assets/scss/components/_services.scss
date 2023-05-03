@@ -155,6 +155,13 @@
         border-radius: 6px;
       }
     }
+
+    &-bottomimages {
+      img {
+        width: 100%;
+        margin-bottom: 12px;
+      }
+    }
   
     &-body {
       text-align: left;

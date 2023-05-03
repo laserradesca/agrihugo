@@ -1,10 +1,19 @@
 ---
 enable: true
 member:
-  - name: "Loz"
-    post: "Capo"
-    image: "images/team/loz.jpg"
+  - name: "Lauren"
+    post: "..."
+    image: "images/site/about_headshot_loz.jpg"
   - name: "Paolo"
-    post: "Operaio"
-    image: "images/team/inno.jpg"
+    post: "..."
+    image: "images/site/about_headshot_inno.jpg"
+  - name: "Olivia"
+    post: "..."
+    image: "images/site/about_headshot_liv.jpg"
+  - name: "Mia"
+    post: "..."
+    image: "images/site/about_headshot_mia.jpg"
+  - name: "Beppe"
+    post: "..."
+    image: "images/site/about_headshot_beppe.jpg"
 ---
