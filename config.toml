@@ -21,7 +21,17 @@ defaultContentLanguage = 'it'
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingHours = "Chiamaci o seguici sui social per sapere le aperture stagionali"
+        openingDesc = "Orari di apertura dal 1 Giugno 2023:"
+        openingHours = "<ul><li>Martedi 16:00 - 20:00<li>Giovedi 16:00 - 20:00<li>Sabato 16:00 - 20:00</ul>"
+        toBook = "Per informazioni o appuntamenti:"
+        facebookicon = "images/social/facebook_white.png"
+        facebookurl = "https://www.facebook.com/laserradesca/"
+        instagramicon = "images/social/instagram_white.png"
+        instagramurl = "https://www.instagram.com/laserradesca/"
+        newsletter = "https://laserradesca.voxmail.it/user/register"
+        email = "info@laserradesca.com"
+        phone = "342 6385086"
+        address = "località Casotto 1 <br> Torre de' Roveri (BG), Italy"
       [languages.it.params.flag]
         flag = "images/flags/it.jpg"
 
@@ -59,7 +69,7 @@ defaultContentLanguage = 'it'
         flag = "images/flags/au.jpg"
 
 [params]
-  logo = "images/logos/logo-leaf.png"
+  logo = "images/logos/logo_leaf_icon.png"
   formspreeURL = "https://formspree.io/f/meqndazp"
 
 [privacy]

@@ -1,3 +1,3 @@
 ---
-title: "Our Offer"
+title: "What you'll find on the farm"
 ---

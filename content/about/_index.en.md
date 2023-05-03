@@ -4,18 +4,18 @@ date: 2022-01-08T10:41:03+06:00
 subTitle: >
         
 sliderImage:
-  - image: "images/aboutus1.jpg"
-  - image: "images/aboutus2.jpg"
-  - image: "images/aboutus_beppe.jpg"
-  - image: "images/aboutus_inno.jpg"
-  - image: "images/aboutus_livmia.jpg"
+  - image: "images/site/about_hero.jpg"
+  - image: "images/site/about2.jpg"
+  - image: "images/site/about3.jpg"
+  - image: "images/site/about4.jpg"
+  - image: "images/site/about5.jpg"
+  - image: "images/site/about6.jpg"
+  - image: "images/site/about7.jpg"
+  - image: "images/site/about8.jpg"
+  - image: "images/site/about9.jpg"
 ---
-## This Is Our Story.
+## About us
 
 We are Lauren, Paolo, and our three kids, Olivia, Mia and Beppe.
 
-Lauren was born and raised on the east coast of Australia. She moved to Bergamo in 2012 with Paolo after some stints living in Denmark, the UK, and in Sweden where she completed a Masters degree in Sustainable Development. From managing the crops and the bee yard, to the admin, sales and educational programs, Lauren has her hands on every part of the farm, but doesn’t do it all alone. 
-
-Paolo helps out.  
-
-Olivia, Mia and Beppe live on the farm with us, helping where they can, and giving us constant new perspectives.
+Cascina La Cà is situated on just over eight hectares of agricultural land in the Serradesca valley, Bergamo, with half of the area dedicated to the cultivation of fruit, berries, hazelnuts, wine grapes and aromatic plants, as well as a honey bee apiary. The rest of the land is preserved as wild forest and meadow, supporting local biodiversity.
