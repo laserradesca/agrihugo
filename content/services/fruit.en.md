@@ -3,7 +3,7 @@ title: "Fresh food, straight from the fields"
 date: 2023-04-06T11:16:38+06:00
 featureImage: images/content/food/food_hero.jpg
 tags: [ "boh"]
-images: ["images/content/food/food_1.jpg", "images/content/food/food_2.jpg", "images/content/food/food_3.jpg"]
+images: ["images/content/food/food_2.jpg", "images/content/food/food_1.jpg", "images/content/food/food_3.jpg"]
 ---
 We grow what we love, and what works in our local conditions: species and varieties are inspired locally and from our travels around the world. 
 

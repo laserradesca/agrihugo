@@ -69,7 +69,7 @@ defaultContentLanguage = 'it'
         flag = "images/flags/au.jpg"
 
 [params]
-  logo = "images/logos/logo_leaf_icon.png"
+  logo = "images/logos/logo_leaf_icon_white_bg.png"
   formspreeURL = "https://formspree.io/f/meqndazp"
 
 [privacy]
