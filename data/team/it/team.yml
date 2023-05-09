@@ -2,8 +2,7 @@
 enable: true
 member:
   - name: "Lauren"
-    post: "Lauren gestisce i campi e l’apiario, e i programmi didattici ricreativi
-"
+    post: "Lauren gestisce i campi e l’apiario, e i programmi didattici ricreativi"
     image: "images/site/about_headshot_loz.jpg"
   - name: "Paolo"
     post: "Paolo si occupa delle aree incolte, il bosco, e la flora e fauna selvatica"
