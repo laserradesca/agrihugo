@@ -6,6 +6,7 @@ tags: [ "boh"]
 images: ["images/content/wine/wine_1.jpg","images/content/wine/wine_3.jpg","images/content/wine/wine_2.jpg"]
 ---
   Produciamo tre varietà di uva di vino, tipiche della regione bergamasca (Bergamasca IGT).
+
 Il Moscato Giallo è una varietà storica per i viticoltori bergamaschi. Questo vitigno è solitamente destinato al vino passito, ma abbiamo scelto una vinificazione classica, al secco, per ottenere un eccellente vino da aperitivo. Il nostro Moscato Giallo è un eccellente vino d'aperitivo, con profumi intensi che richiamano i frutti tropicali. Al gusto è minerale ed equilibrato. Servire a 10-12°C. 11,5% vol.
 
 Incrocio Manzoni 6.0.13 è un vitigno creato negli anni '30 dal Prof. Luigi Manzoni (1888-1968), incrociando il Riesling Renano con il Pinot Bianco. Questo vino è ideale con zuppe, piatti di riso, pesce e carni bianche. Ha una buona struttura, leggermente aspro infine. Servire a 10-12°C. 14% vol.

@@ -12,8 +12,7 @@ Our workshops and courses focus on the farming and cultural roots of all our pro
 - hands-on farming and recreational experiences for private companies and high schools;
 - multi-visit workshop series;
 - holiday camps for children 5-11 years  
-
-
+---
 ### English learning
 All visits are also offered in English, run by Lauren, farm owner and native English speaker from Australia, specialised in English language teaching for children 3-12 years, and business English for professionals. 
 

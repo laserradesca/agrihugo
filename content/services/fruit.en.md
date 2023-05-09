@@ -7,8 +7,7 @@ images: ["images/content/food/food_2.jpg", "images/content/food/food_1.jpg", "im
 ---
 We grow what we love, and what works in our local climate: species and varieties are inspired locally and from our travels around the world. All of our fresh produce is grown to be hand-picked in the field by us, or directly by you to take home and enjoy: fruit & veg, berries & nuts, aromatic herbs and edible, decorative plants. 
 
-Join our [newsletter]({{< param "address.newsletter">}} "Subscribe") to stay updated on seasonal availability. 
-
+Join our [newsletter]({{< param "address.newsletter">}} "Subscribe") to stay updated on seasonal availability.
 ### Organic farming and sustainability
 While we do use many organic farming methods, based on our research and experience in the fields, we are convinced that integrating certain conventional farming practices improves the sustainability of our farm significantly more than being organically certified: for the environment, and for us, our neighbours and our customers.  
 
