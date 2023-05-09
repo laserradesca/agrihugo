@@ -1,6 +1,6 @@
 ---
 title: "Cibo fresco, direttamente dai campi"
-date: 2022-01-06T11:16:38+06:00
+date: 2023-04-06T11:16:38+06:00
 featureImage: images/content/food/food_hero.jpg
 tags: [ "boh"]
 images: ["images/content/food/food_2.jpg", "images/content/food/food_1.jpg", "images/content/food/food_3.jpg"]

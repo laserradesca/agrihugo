@@ -7,6 +7,8 @@
     padding: 15px 40px;
     transition: 0.3s $site-ease;
     &:hover {
-      transform: translateY(-3px);
+      transform: translateY(-1px);
+      background: $orange;
+      border: 1px solid $orange;
     }
   }

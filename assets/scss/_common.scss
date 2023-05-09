@@ -3,6 +3,11 @@ a {
   color: $primary-color;
 }
 
+a:hover {
+  color: $orange;
+  text-decoration: none;
+}
+
 .section {
     padding: 100px 0;
     @include desktop {

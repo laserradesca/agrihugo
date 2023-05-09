@@ -41,7 +41,7 @@
           font-size: 18px;
           line-height: 26px;
           color: $text-color-dark;
-          text-transform: capitalize;
+          /*text-transform: capitalize;*/
   
           @include mobile-xs {
             font-size: 15px;
@@ -60,7 +60,7 @@
         font-size: 14px;
         font-weight: 400;
         font-family: $primary-font;
-        text-transform: capitalize;
+        /*text-transform: capitalize;*/
         transition: 0.3s $site-ease;
   
         span {

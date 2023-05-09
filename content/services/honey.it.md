@@ -1,6 +1,6 @@
 ---
-title: "Il miele & gli alveari"
-date: 2022-01-06T11:16:38+06:00
+title: "Il miele e gli alveari"
+date: 2023-03-06T11:16:38+06:00
 featureImage: images/content/honey/honey_hero.jpg
 tags: [ "boh"]
 images: ["images/content/honey/honey_1.jpg","images/content/honey/honey_2.jpg","images/content/honey/honey_3.jpg"]

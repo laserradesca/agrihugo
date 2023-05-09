@@ -1,5 +1,5 @@
 ---
-title: "Our honey & our hives"
+title: "Our honey & hives"
 date: 2023-03-06T11:16:38+06:00
 featureImage: images/content/honey/honey_hero.jpg
 tags: [ "boh"]

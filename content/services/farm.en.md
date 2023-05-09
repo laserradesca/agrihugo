@@ -1,6 +1,6 @@
 ---
 title: "Workshops & courses"
-date: 2023-04-05T11:16:38+06:00
+date: 2023-02-06T11:16:38+06:00
 featureImage: images/content/farmlearning/learning_hero.jpg
 tags: [ "boh"]
 images: ["images/content/farmlearning/learning_1.jpg","images/content/farmlearning/learning_2.jpg","images/content/farmlearning/learning_3.jpg"]
