@@ -16,6 +16,7 @@ sliderImage:
 ---
 ## About us
 
-We are Lauren, Paolo, and our three kids, Olivia, Mia and Beppe.
+We are Lauren, Paolo, and our three kids: Olivia, Mia and Beppe.
 
 Cascina La Cà is situated on just over eight hectares of agricultural land in the Serradesca valley, Bergamo, with half of the area dedicated to the cultivation of fruit, berries, hazelnuts, wine grapes and aromatic plants, as well as a honey bee apiary. The rest of the land is preserved as wild forest and meadow, supporting local biodiversity.
+

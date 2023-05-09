@@ -1,24 +1,21 @@
 ---
-title: "Fattoria didattica"
+title: "Corsi & laboratori"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/farmlearning_1.jpg
+featureImage: images/content/farmlearning/learning_hero.jpg
 tags: [ "boh"]
+images: ["images/content/farmlearning/learning_1.jpg","images/content/farmlearning/learning_2.jpg","images/content/farmlearning/learning_3.jpg"]
 ---
-  La mia prima modifica
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
+Sia per bambini che per adulti, crediamo sia importante rimanere curiosi dei nostri dintorni: di considerarli in modi nuovi e creativi, di avere il coraggio di sfidare i propri opinioni, e di sperimentare con quello che, all’inizio, sembra strano e difficile. 
 
-  ### A sample heading 
+I nostri corsi e laboratori focalizzano sulle radici agrari e culturali dei nostri prodotti, sull’ambiente locale selvatico, e sulla vita contadina a Bergamo e nel mondo. Offriamo:
+- visite didattiche di giornate intere o di mezze-giornate, con scelte di laboratori progettati per bambini dell’età della scuola dell’infanzia e la scuola primaria; 
+- Esperienze sia ricreative che pratiche per aziende privati e per scuole superiori di 1° e 2° grado;
+- serie di laboratori e percorsi approfonditi, di più visite;
+- campi di vacanza per bambini 5-11 anni  
+---
+### Didattica in lingua inglese
+Tutte le nostre visite sono offerte anche in lingua inglese, gestite da Lauren, agricoltrice e madrelingua inglese Australiana. Lauren è specializzata nell’insegnamento di inglese per bambini 3-12 anni, e nel business english for professionals. 
 
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  > “Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex deleniti porro impedit iure nisi, eius sapiente dolorum magni tempora harum!”
+I nostri corsi in lingua inglese sono progettati specificamente per madrelingua italiani, basati sul metodo Content and Language Integrated Learning ([CLIL](https://en.wikipedia.org/wiki/Language_immersion "Wikipedia")), col quale l’apprendimento degli obiettivi linguistici viene ottenuto tramite l’utilizzo pratico di competenze della lingua inglese mentre si impara i contenuti dei laboratori. Il metodo CLIL non solo incoraggia la ritenzione delle competenze linguistiche, ma anche crea tante opportunità per gli studenti di improvvisare con l’inglese ed essere creativi in situazioni fuori dalla loro zona di comfort.
 
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  
-  - List item number 01
-  - List item number 02
-  - List item number 03
-  - List item number 04
-  - List item number 05
-  - List item number 06
+[Contattateci per preventivi e prenotazioni]({{< ref "contact">}} "Contact us") 

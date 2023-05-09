@@ -1,23 +1,20 @@
 ---
-title: "Raccolta in campo di piccoli frutti"
+title: "Cibo fresco, direttamente dai campi"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/freshfood_2.jpg
+featureImage: images/content/food/food_hero.jpg
 tags: [ "boh"]
+images: ["images/content/food/food_2.jpg", "images/content/food/food_1.jpg", "images/content/food/food_3.jpg"]
 ---
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
+  Coltiviamo quello che ci piace, e solo quello adatto al microclima locale: specie e varietà sono scelte e ispirate sia localmente che dai nostri viaggi nel mondo. Tutti i nostri prodotti freschi sono coltivati per essere raccolti a mano, da noi o da voi per portare a casa: frutta e verdura, piccoli frutti, frutta secca, piante aromatiche, e fiori recisi e commestibili. 
 
-  ### A sample heading 
+  Iscrivetevi alla nostra [newsletter]({{< param "address.newsletter">}} "Subscribe") per rimanere aggiornati sulle disponibilità stagionali. 
 
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  > “Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex deleniti porro impedit iure nisi, eius sapiente dolorum magni tempora harum!”
 
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
+  ### Agricoltura biologica e sostenibilità
+ Mentre usiamo molti metodi di agricoltura biologica, dato alla nostra ricerca e alla nostra esperienza, crediamo che l’integrazione di certe pratiche di agricoltura convenzionale migliori significativamente la sostenibilità della nostra attività in confronto ad una certificazione biologica: per l’ambiente, per noi, per i nostri vicini e per i nostri clienti.  
 
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  
-  - List item number 01
-  - List item number 02
-  - List item number 03
-  - List item number 04
-  - List item number 05
-  - List item number 06
+Crediamo, inoltre, che sia la nostra responsabilità di essere onesti e di condividere le nostre conoscenze professionali, e quindi, siamo sempre disponibili per spiegare tutti i processi e prodotti usati nella coltivazione di tutto il nostro cibo, e le motivazioni dietro ogni scelta. 
+
+Ecco il vero beneficio del comprare locale e di avere contatto diretto con chi coltiva il vostro cibo.
+
+[Contattateci]({{< ref "contact">}} "Contact us") 

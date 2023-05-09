@@ -1,23 +1,10 @@
 ---
-title: "Miele"
+title: "Il miele & gli alveari"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/beehives_2.jpg
+featureImage: images/content/honey/honey_hero.jpg
 tags: [ "boh"]
+images: ["images/content/honey/honey_1.jpg","images/content/honey/honey_2.jpg","images/content/honey/honey_3.jpg"]
 ---
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
+  La più grande passione di Lauren, il nostro apiario è essenziale all’operazione intera: impollina le nostre coltivazioni, produce un miele delizioso, ed è una parte fondamentale per i programmi didattici. Il nostro miele millefiori ha un tocco distintivo di castagno, grazie al bosco intorno. 
 
-  ### A sample heading 
-
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  > “Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex deleniti porro impedit iure nisi, eius sapiente dolorum magni tempora harum!”
-
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  
-  - List item number 01
-  - List item number 02
-  - List item number 03
-  - List item number 04
-  - List item number 05
-  - List item number 06
+[Contattateci per ordini e degustazioni]({{< ref "contact">}} "Contact us")

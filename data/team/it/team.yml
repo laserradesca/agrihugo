@@ -2,18 +2,19 @@
 enable: true
 member:
   - name: "Lauren"
-    post: "..."
+    post: "Lauren gestisce i campi e l’apiario, e i programmi didattici ricreativi
+"
     image: "images/site/about_headshot_loz.jpg"
   - name: "Paolo"
-    post: "..."
+    post: "Paolo si occupa delle aree incolte, il bosco, e la flora e fauna selvatica"
     image: "images/site/about_headshot_inno.jpg"
   - name: "Olivia"
-    post: "..."
+    post: "Le cose preferite di Olivia sono i fiori spontanei e i mirtilli"
     image: "images/site/about_headshot_liv.jpg"
   - name: "Mia"
-    post: "..."
+    post: "Mia non se ne può fare a meno del nostro miele"
     image: "images/site/about_headshot_mia.jpg"
   - name: "Beppe"
-    post: "..."
+    post: "Beppe preferisce i lamponi, e tutti i trattori passanti"
     image: "images/site/about_headshot_beppe.jpg"
 ---

@@ -12,7 +12,7 @@ defaultContentLanguage = 'it'
       url = "about/"
       weight = 1
       [[languages.it.menu.main]]
-      name = "La nostra offerta"
+      name = "Cosa troverete"
       url = "services/"
       weight = 2
       [[languages.it.menu.main]]
@@ -31,7 +31,7 @@ defaultContentLanguage = 'it'
         newsletter = "https://laserradesca.voxmail.it/user/register"
         email = "info@laserradesca.com"
         phone = "342 6385086"
-        address = "località Casotto 1 <br> Torre de' Roveri (BG), Italy"
+        address = "Località Casotto 1 <br> Torre de' Roveri (BG), Italy"
       [languages.it.params.flag]
         flag = "images/flags/it.jpg"
 
@@ -45,7 +45,7 @@ defaultContentLanguage = 'it'
       url = "about/"
       weight = 1
       [[languages.en.menu.main]]
-      name = "Our offer"
+      name = "What you'll find"
       url = "services/"
       weight = 2
       [[languages.en.menu.main]]
@@ -64,7 +64,7 @@ defaultContentLanguage = 'it'
         newsletter = "https://laserradesca.voxmail.it/user/register"
         email = "info@laserradesca.com"
         phone = "+39 342 6385086"
-        address = "località Casotto 1 <br> Torre de' Roveri (BG), Italy"
+        address = "Località Casotto 1 <br> Torre de' Roveri (BG), Italy"
       [languages.en.params.flag]
         flag = "images/flags/au.jpg"
 
