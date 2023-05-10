@@ -18,4 +18,12 @@ Tutte le nostre visite sono offerte anche in lingua inglese, gestite da Lauren, 
 
 I nostri corsi in lingua inglese sono progettati specificamente per madrelingua italiani, basati sul metodo Content and Language Integrated Learning ([CLIL](https://en.wikipedia.org/wiki/Language_immersion "Wikipedia")), col quale l’apprendimento degli obiettivi linguistici viene ottenuto tramite l’utilizzo pratico di competenze della lingua inglese mentre si impara i contenuti dei laboratori. Il metodo CLIL non solo incoraggia la ritenzione delle competenze linguistiche, ma anche crea tante opportunità per gli studenti di improvvisare con l’inglese ed essere creativi in situazioni fuori dalla loro zona di comfort.
 
+---
+### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
+[Farm Weeks 2023](https://forms.gle/6rg3obet1sE456fP9 "Form")
+
+[Farm Labs 2023](https://forms.gle/njC6djiddHzaxqcx6 "Form")
+
+
+
 [Contattateci per preventivi e prenotazioni]({{< ref "contact">}} "Contact us") 
