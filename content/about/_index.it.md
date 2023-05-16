@@ -17,4 +17,4 @@ sliderImage:
 
 Siamo Lauren, Paolo e i nostri tre bambini: Olivia, Mia e Beppe.
 
-Cascina La Cà è situata in poco più di otto ettari nella valle Serradesca, Bergamo. Metà del terreno è dedicato alla coltivazione di frutta, piccoli frutti, nocciole, uva da vino, piante aromatiche, e di un apiario. Il resto del terreno è riservato come bosco, prato e zone incolte, con l’ottica di sostenere la biodiversità locale.
+Cascina La Cà si estende su poco più di otto ettari in valle Serradesca, tra Scanzorosciate e Torre de' Roveri (BG). Metà del terreno è dedicato alla coltivazione di frutta, piccoli frutti, nocciole, uva da vino, piante aromatiche, e di un apiario. Il resto del terreno è riservato a bosco, prato e zone incolte, per sostenere la biodiversità locale.

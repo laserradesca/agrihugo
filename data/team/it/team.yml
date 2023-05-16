@@ -11,9 +11,9 @@ member:
     post: "Le cose preferite di Olivia sono i fiori spontanei e i mirtilli"
     image: "images/site/about_headshot_liv.jpg"
   - name: "Mia"
-    post: "Mia non se ne può fare a meno del nostro miele"
+    post: "Mia non può fare a meno del nostro miele"
     image: "images/site/about_headshot_mia.jpg"
   - name: "Beppe"
-    post: "Beppe preferisce i lamponi, e tutti i trattori passanti"
+    post: "Beppe preferisce i lamponi, e i trattori di passaggio"
     image: "images/site/about_headshot_beppe.jpg"
 ---
