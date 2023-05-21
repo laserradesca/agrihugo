@@ -14,7 +14,7 @@ Our workshops and courses focus on the farming and cultural roots of all our pro
 - holiday camps for children 5-11 years  
 ---
 ### English learning
-All visits are also offered in English, run by Lauren, farm owner and native English speaker from Australia, specialised in English language teaching for children 3-12 years, and business English for professionals. 
+All visits are also offered in English, run by Lauren, farm owner and native English speaker from Australia. lauren has an Msc in Sustainable Development, and is an experienced teacher of English for children 3-12 years, and business English for professionals. 
 
 Our English language courses are designed especially for Italian native speakers, with a focus on Content and Language Integrated Learning ([CLIL](https://en.wikipedia.org/wiki/Language_immersion "Wikipedia")) methodology, whereby language learning objectives are gradually achieved as participants practise targeted English skills as they learn the lesson content. This method not only encourages language skill retention through learning by experience, but also creates opportunities for students to improvise with the language and be creative in situations outside their comfort zone. 
 

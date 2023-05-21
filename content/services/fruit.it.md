@@ -5,7 +5,7 @@ featureImage: images/content/food/food_hero.jpg
 tags: [ "boh"]
 images: ["images/content/food/food_2.jpg", "images/content/food/food_1.jpg", "images/content/food/food_3.jpg"]
 ---
-  Coltiviamo quello che ci piace, e solo ciò che è adatto al microclima locale: specie e varietà sono scelte e ispirate sia localmente che dai nostri viaggi nel mondo. Tutti i nostri prodotti freschi sono coltivati per essere raccolti a mano, da noi o da voi, e da portare a casa: frutta e verdura, piccoli frutti, frutta secca, piante aromatiche, fiori recisi e commestibili. 
+  Coltiviamo quello che ci piace, e solo ciò che è adatto al microclima locale: specie e varietà sono scelte e ispirate sia localmente che dai nostri viaggi nel mondo. Tutti i nostri prodotti freschi sono coltivati per essere raccolti a mano, da noi o da voi, e da portare a casa: frutta e verdura, piccoli frutti, nocciole e castagne, piante aromatiche, fiori recisi e commestibili. 
 
   Iscrivetevi alla nostra [newsletter]({{< param "address.newsletter">}} "Subscribe") per rimanere aggiornati sulle disponibilità stagionali. 
   

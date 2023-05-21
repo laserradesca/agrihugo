@@ -5,7 +5,7 @@ featureImage: images/content/food/food_hero.jpg
 tags: [ "boh"]
 images: ["images/content/food/food_2.jpg", "images/content/food/food_1.jpg", "images/content/food/food_3.jpg"]
 ---
-We grow what we love, and what works in our local climate: species and varieties are inspired locally and from our travels around the world. All of our fresh produce is grown to be hand-picked in the field by us, or directly by you to take home and enjoy: fruit & veg, berries & nuts, aromatic herbs and edible, decorative plants. 
+We grow what we love, and what works in our local climate: species and varieties are inspired locally and from our travels around the world. All of our fresh produce is grown to be hand-picked in the field by us, or directly by you to take home and enjoy: fruit & veg, berries, hazelnuts and chestnuts, aromatic herbs and edible, decorative plants. 
 
 Join our [newsletter]({{< param "address.newsletter">}} "Subscribe") to stay updated on seasonal availability.
 ### Organic farming and sustainability
