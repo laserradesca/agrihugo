@@ -28,5 +28,3 @@ Il *Moscato Giallo* è una varietà storica per i viticoltori bergamaschi. Quest
 
 
 [Contattateci per ordini e degustazioni]({{< ref "contact">}} "Contact us")
-
-[Oppure ordine online](https://forms.gle/zCPN2AVZGqYyA5d3A)
