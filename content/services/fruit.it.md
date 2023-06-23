@@ -17,3 +17,5 @@ Crediamo, inoltre, che sia nostra responsabilità essere onesti e di condividere
 Questo è il vero beneficio di comprare locale e di avere contatto diretto con chi coltiva il vostro cibo.
 
 [Contattateci]({{< ref "contact">}} "Contact us") 
+
+[Oppure ordine online](https://forms.gle/zCPN2AVZGqYyA5d3A)
