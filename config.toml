@@ -22,7 +22,7 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "La stagione di raccolta in campo frutti per 2023 è finita! Grazie a tutti voi per essere passati da noi per godere le nostre delizie direttamente dalle piante. E' comunque sempre possibile visitare previa appuntamento: contattateci pure:"
+        openingDesc = "La stagione di raccolta in campo frutti per 2023 è finita! Grazie a tutti voi per essere passati da noi per godere le nostre delizie direttamente dalle piante. E' comunque sempre possibile visitare previa appuntamento. Contattateci pure:"
         openingHours = "<ul></ul>"
         toBook = "Per informazioni o appuntamenti:"
         facebookicon = "images/social/facebook_white.png"
