@@ -5,7 +5,7 @@ featureImage: images/content/test/smaltimento_spumante.png
 tags: [ "boh"]
 images: ["images/content/wine/wine_1.jpg","images/content/wine/wine_3.jpg","images/content/wine/wine_2.jpg"]
 ---
-## consultate questa tabella per tutte le indicazioni sullo smaltimento responsabile.
+## consulta questa tabella per tutte le indicazioni sullo smaltimento responsabile.
 
  
 
