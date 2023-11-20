@@ -22,8 +22,8 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "La stagione di raccolta in campo frutti per 2023 è finita! Grazie a tutti voi per essere passati da noi per godere le nostre delizie direttamente dalle piante. E' comunque sempre possibile visitare previa appuntamento. Contattateci pure:"
-        openingHours = "<ul></ul>"
+        openingDesc = "Ormai manca pochissimo a natale! Per aiutarvi a scegliere i regali perfetti, rimaniamo aperti nei seguenti orari fino al 22 dicembre 2023, senza fissare appuntamento:"
+        openingHours = "<ul>lunedì dalle 15 alle 19</ul><ul>giovedì dalle 12 alle 14</ul><ul>venerdì dalle 08:30 alle 12:30</ul>"
         toBook = "Per informazioni o appuntamenti:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
@@ -55,8 +55,8 @@ canonifyurls = true
       weight = 3
     [languages.en.params]
       [languages.en.params.address]
-        openingDesc = "The 2023 fruit picking season is complete! Thank you to everyone for passing by to enjoy our tasty produce. It's always possibile to visit by appointment, so feel free to get in touch:"
-        openingHours = "<ul></ul>"
+        openingDesc = "Christmas is just around the corner! We will be open during the following hours until 22nd December 2023 to help you pick the perfect presents. No need to book, just drop in:"
+        openingHours = "<ul>mondays from 3pm to 7pm</ul><ul>thursdays from 12 noon to 2pm</ul><ul>fridays from 8:30am to 12:30pm</ul>"
         toBook = "For info, or to set up a visit by appointment:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
