@@ -20,10 +20,6 @@ I nostri corsi in lingua inglese sono progettati specificamente per madrelingua 
 
 ---
 ### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
-[Farm Weeks 2023](https://forms.gle/6rg3obet1sE456fP9 "Form")
-
-[Farm Labs 2023](https://forms.gle/njC6djiddHzaxqcx6 "Form")
-
-
+[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
 
 [Contattateci per preventivi e prenotazioni]({{< ref "contact">}} "Contact us") 

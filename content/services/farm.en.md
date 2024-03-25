@@ -20,9 +20,6 @@ Our English language courses are designed especially for Italian native speakers
 
 ---
 ### INFO AND ENROLLMENTS FOR UPCOMING LABS AND EVENTS
-[Farm Weeks 2023](https://forms.gle/6rg3obet1sE456fP9 "Form")
-
-[Farm Labs 2023](https://forms.gle/njC6djiddHzaxqcx6 "Form")
-
+[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
 
 [Get in touch for quotes and bookings]({{< ref "contact">}} "Contact us") 
