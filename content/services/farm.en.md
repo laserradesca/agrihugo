@@ -22,4 +22,8 @@ Our English language courses are designed especially for Italian native speakers
 ### INFO AND ENROLLMENTS FOR UPCOMING LABS AND EVENTS
 [Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
 
+[Spring Day 26 Aprile 2024](https://forms.gle/MzMfDjR2iTyaWLtv9 "Form")
+
+[Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form")
+
 [Get in touch for quotes and bookings]({{< ref "contact">}} "Contact us") 
