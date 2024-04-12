@@ -22,4 +22,8 @@ I nostri corsi in lingua inglese sono progettati specificamente per madrelingua 
 ### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
 [Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
 
+[Spring Day 26 Aprile 2024](https://forms.gle/MzMfDjR2iTyaWLtv9 "Form")
+
+[Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form")
+
 [Contattateci per preventivi e prenotazioni]({{< ref "contact">}} "Contact us") 

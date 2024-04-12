@@ -86,3 +86,5 @@ canonifyurls = true
     disable = true
   [privacy.youtube]
     disable = true
+
+    ignoreErrors = ["error-remote-getjson"]
