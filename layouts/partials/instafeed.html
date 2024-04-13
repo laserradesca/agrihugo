@@ -1,4 +1,4 @@
-<!-- {{ $dataJ := getJSON "https://profilepageimages.usecue.com/images/laserradesca/images.json" }}
+{{ $dataJ := getJSON "https://profilepageimages.usecue.com/images/laserradesca/images.json" }}
 {{ with index .Site.Data.instafeed .Site.Language.Lang }}
 
 <section class="instafeed-section">
@@ -25,15 +25,15 @@
               <img class="{{ $media_type }}" src="{{ $image_small }}" {{ with $caption }}alt="{{ . }}"{{ else }}alt=""{{ end }}>
             </a>
           </div>
-        </div> -->
+        </div>
 <!--         <li style='background-image: url("{{ $image_small }}")' class='{{ $media_type }}'>
           <a href="{{ $permalink }}" target="_blank" rel="noopener noreferrer" title="{{ $caption }}">
             <img class="{{ $media_type }}" src="{{ $image_small }}" {{ with $caption }}alt="{{ . }}"{{ else }}alt=""{{ end }}>
           </a>
         </li> -->
-<!--       </div>
+      </div>
       {{ end }}
     </div>
   </div>
 </section>
-{{end}} -->
+{{end}}
