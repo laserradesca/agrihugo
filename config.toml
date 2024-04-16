@@ -55,8 +55,8 @@ canonifyurls = true
       weight = 3
     [languages.en.params]
       [languages.en.params.address]
-        openingDesc = "WE're now getting ready for the new picking season, with lots of news to share! We will be opening regularly with our workshops and fruit picking from the 4th of June."
-        openingHours = "<ul>WE will be announcing the season programme very soon.... stay tuned!</ul>"
+        openingDesc = "We're now getting ready for the new picking season, with lots of news to share! We will be opening regularly with our workshops and fruit picking from the 4th of June."
+        openingHours = "<ul>We will be announcing the season programme very soon.... stay tuned!</ul>"
         toBook = "For info, or to set up a visit by appointment:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
