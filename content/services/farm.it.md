@@ -22,8 +22,12 @@ I nostri corsi in lingua inglese sono progettati specificamente per madrelingua 
 ### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
 [Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
 
-[Spring Day 26 Aprile 2024](https://forms.gle/MzMfDjR2iTyaWLtv9 "Form")
+[Farm Labs! 2024](https://forms.gle/9UWVFmvprTky8iJu8 "Form")
+
+[Nature Journaling 2024](https://forms.gle/N2aC7JddGHZ7TJPL9 "Form")
 
 [Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form")
+
+[Coltivare Ben-Essere: yoga vinyasa con Michela Pulcini](https://docs.google.com/forms/d/1tMZwCXtucZ8hLmmJAIMa7MPUZnbhRANX8T090AZ60ZI/viewform?edit_requested=true "Form")
 
 [Contattateci per preventivi e prenotazioni]({{< ref "contact">}} "Contact us") 
