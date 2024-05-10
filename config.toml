@@ -23,7 +23,7 @@ canonifyurls = true
     [languages.it.params]
       [languages.it.params.address]
         openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno 2024 ci troverete nei campi tra i seguenti orari:"
-        openingHours = "<ul></ul>Martedì ore 16 - 20<ul>Giovedì ore 16 - 20<ul>Sabato ore 16 - 20</ul><ul>Per ulteriori info sugli eventi in programma, date un'occhiata alla pagina ""corsi e laboratori"", oppure su instagram e facebook</ul>"
+        openingHours = "<ul></ul>Martedì ore 16 - 20<ul>Giovedì ore 16 - 20<ul>Sabato ore 16 - 20</ul><ul>Per ulteriori info sugli eventi in programma, date un'occhiata alla pagina corsi e laboratori, oppure su instagram e facebook</ul>"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
