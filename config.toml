@@ -22,9 +22,8 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "Dal 4 giugno saremo aperti per la raccolta in campo ([ogni martedì, giovedì e sabato dalle ore 16 alle ore 20](https://forms.gle/e3XvciiXo4bdbCKK9)). Vi aspettiamo nei campi, anche con agri-aperitivi e assaggi nostrani!"
-        openingHours = "<ul>Per iscriverti ad un laboratorio o evento, clicca ([qui](https://https://www.laserradesca.com/services/farm/))i</ul>"
-        toBook = "Per informazioni o appuntamenti:"
+        openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno 2024 ci troverete nei campi tra i seguenti orari:"
+        openingHours = "<ul></ul>Martedì ore 16 - 20<ul>Giovedì ore 16 - 20<ul>Sabato ore 16 - 20</ul><ul>Per ulteriori info sugli eventi in programma, date un'occhiata alla pagina ""corsi e laboratori"", oppure su instagram e facebook</ul>"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
@@ -55,8 +54,8 @@ canonifyurls = true
       weight = 3
     [languages.en.params]
       [languages.en.params.address]
-        openingDesc = "From 4th June, we will be open for fruit picking every ([Tuesday, Thursday and Saturday from 4pm to 8pm](https://forms.gle/e3XvciiXo4bdbCKK9)) Pass by to sample our fruit, wines and other tasty treats!"
-        openingHours = "<ul>To sign up for an event or workshop, click ([here](https://https://www.laserradesca.com/services/farm/)).</ul>"
+        openingDesc = "Fresh fruit picking, wine tastings, local produce, workshops and events... from 4th June 2024 you will find us at the farm during the following hours:"
+        openingHours = "<ul>Tuesdays 4pm - 8pm<ul>Thursdays 4pm - 8pm<ul>Saturdays 4pm - 8pm</ul><ul>For further info on our events program, check out the workshops & courses page, or instagram and facebook</ul>"
         toBook = "For info, or to set up a visit by appointment:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"

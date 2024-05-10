@@ -20,14 +20,14 @@ I nostri corsi in lingua inglese sono progettati specificamente per madrelingua 
 
 ---
 ### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
-[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
+[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form") Camp estivo per bambini 5-11 anni
 
-[Farm Labs! 2024](https://forms.gle/9UWVFmvprTky8iJu8 "Form")
+[Farm Labs! 2024](https://forms.gle/9UWVFmvprTky8iJu8 "Form") Laboratori di natura in lingua inglese per bambini 3-6 anni
 
-[Nature Journaling 2024](https://forms.gle/N2aC7JddGHZ7TJPL9 "Form")
+[Nature Journaling 2024](https://forms.gle/N2aC7JddGHZ7TJPL9 "Form") Studiare e apprezzare il territorio naturale tramite il disegno, la creatività, e la lingua inglese, per bambini 7-11 anni
 
-[Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form")
+[Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form") Skills, sicurezza e consapevolezza in natura per bambini 7-11 anni
 
-[Coltivare Ben-Essere: yoga vinyasa con Michela Pulcini](https://docs.google.com/forms/d/1tMZwCXtucZ8hLmmJAIMa7MPUZnbhRANX8T090AZ60ZI/viewform?edit_requested=true "Form")
+[Coltivare Ben-Essere: yoga vinyasa con Michela Pulcini](https://docs.google.com/forms/d/1tMZwCXtucZ8hLmmJAIMa7MPUZnbhRANX8T090AZ60ZI/viewform?edit_requested=true "Form") Un percorso di yoga per adulti nei campi della cascina
 
-[Contattateci per preventivi e prenotazioni]({{< ref "contact">}} "Contact us") 
+[Cercate qualcosa customizzata?]({{< ref "contact">}} "Contact us") Contattateci per preventivi e prenotazioni

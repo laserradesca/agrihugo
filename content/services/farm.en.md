@@ -20,14 +20,16 @@ Our English language courses are designed especially for Italian native speakers
 
 ---
 ### INFO AND ENROLLMENTS FOR UPCOMING LABS AND EVENTS
-[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form")
+[Summer 2024 program:](https://forms.gle/VmwrFmiStjcLMXADA "Form") In Italian, get in touch for help in translating!
 
-[Farm Labs! 2024](https://forms.gle/9UWVFmvprTky8iJu8 "Form")
+[Farm Weeks 2024:](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form") Summer camp for kids aged 5-11 years
 
-[Nature Journaling 2024](https://forms.gle/N2aC7JddGHZ7TJPL9 "Form")
+[Farm Labs! 2024:](https://forms.gle/9UWVFmvprTky8iJu8 "Form") English nature labs for kids aged 3-6 years
 
-[Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form")
+[Nature Journaling 2024:](https://forms.gle/N2aC7JddGHZ7TJPL9 "Form") Discover the local surroundings through art and observation, for kids aged 7-11 years
 
-[Coltivare Ben-Essere: yoga vinyasa con Michela Pulcini](https://docs.google.com/forms/d/1tMZwCXtucZ8hLmmJAIMa7MPUZnbhRANX8T090AZ60ZI/viewform?edit_requested=true "Form")
+[Sani, Salvi e Selvatici Maggio 2024:](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form") Forest safety skills and awareness for kids aged 7-11 years
 
-[Get in touch for quotes and bookings]({{< ref "contact">}} "Contact us") 
+[Coltivare Ben-Essere: yoga vinyasa con Michela Pulcini:](https://docs.google.com/forms/d/1tMZwCXtucZ8hLmmJAIMa7MPUZnbhRANX8T090AZ60ZI/viewform?edit_requested=true "Form") Weekly yoga meets for adults on our farm
+
+[Need tailor-made?]({{< ref "contact">}} "Contact us") Get in touch for quotes and bookings
