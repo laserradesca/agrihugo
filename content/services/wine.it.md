@@ -16,7 +16,7 @@ Il *Moscato Giallo* è una varietà storica per i viticoltori bergamaschi. Quest
 *Incrocio Manzoni 6.0.13* è un vitigno creato negli anni ‘30 dal Prof. Luigi Manzoni (1888-1968), incrociando il Riesling Renano con il Pinot Bianco. Questo vino è ideale con zuppe, piatti di riso, pesce e carni bianche. Ha una buona struttura, leggermente aspro sul finale. Servire a 10-12°C. 14% vol.
 
 - Vendemmia 2021, Bottiglia da 750ml - €8
-- Spumante METODO CLASSICO BRUT, vendemmia 2021, Bottiglia da 750ml - €14
+- Spumante METODO CLASSICO BRUT, vendemmia 2021, Bottiglia da 750ml - €12
 
 -----
 
