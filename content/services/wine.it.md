@@ -16,14 +16,14 @@ Il *Moscato Giallo* è una varietà storica per i viticoltori bergamaschi. Quest
 *Incrocio Manzoni 6.0.13* è un vitigno creato negli anni ‘30 dal Prof. Luigi Manzoni (1888-1968), incrociando il Riesling Renano con il Pinot Bianco. Questo vino è ideale con zuppe, piatti di riso, pesce e carni bianche. Ha una buona struttura, leggermente aspro sul finale. Servire a 10-12°C. 14% vol.
 
 - Vendemmia 2021, Bottiglia da 750ml - €8
-- Spumante METODO CLASSICO BRUT, vendemmia 2021, Bottiglia da 750ml - €12
+- Spumante METODO CLASSICO BRUT, vendemmia 2021, Bottiglia da 750ml (12,5% vol.)- €13
 
 -----
 
-*Incrocio Terzi N.1* è un vitigno locale da riscoprire, creato dal viticoltore bergamasco Riccardo Terzi (†1963), incrociando il Barbera e il Cabernet Franc, attenuando l’asprezza del Barbera con la morbidezza del Cabernet Franc. Al gusto, è vinoso e tannico con sentori di vaniglia, e si adatta bene a taglieri di salumi e formaggi, piatti di pasta e piatti semplici a base di carni bianche o rosse. Servire a 14-16°C. 12% vol.
+*Incrocio Terzi N.1* è un vitigno locale da riscoprire, creato dal viticoltore bergamasco Riccardo Terzi (†1963), incrociando il Barbera e il Cabernet Franc, attenuando l’asprezza del Barbera con la morbidezza del Cabernet Franc. Al gusto, è vinoso e tannico con sentori di vaniglia, e si adatta bene a taglieri di salumi e formaggi, piatti di pasta e piatti semplici a base di carni bianche o rosse. Servire a 14-16°C. 11,5% vol.
 
-- Vendemmia 2021, Bottiglia da 750ml - €8 SOLD OUT (di nuovo disponibile partendo da autunno 2024)
-- Vendemmia 2021, Bottiglia da 750ml, affinato in legno - €9 SOLD OUT (di nuovo disponibile partendo da autunno 2024)
+- Vendemmia 2023, Bottiglia da 750ml - €8 
+- Vendemmia 2021, Bottiglia da 750ml, affinato in legno - €9 SOLD OUT (annata 2023 disponibile partendo da fine febbraio 2025)
 
 -----
 
