@@ -20,10 +20,11 @@ Il *Moscato Giallo* è una varietà storica per i viticoltori bergamaschi. Quest
 
 -----
 
-*Incrocio Terzi N.1* è un vitigno locale da riscoprire, creato dal viticoltore bergamasco Riccardo Terzi (†1963), incrociando il Barbera e il Cabernet Franc, attenuando l’asprezza del Barbera con la morbidezza del Cabernet Franc. Al gusto, è vinoso e tannico con sentori di vaniglia, e si adatta bene a taglieri di salumi e formaggi, piatti di pasta e piatti semplici a base di carni bianche o rosse. Servire a 14-16°C. 11,5% vol.
+*Incrocio Terzi N.1* è un vitigno locale da riscoprire, creato dal viticoltore bergamasco Riccardo Terzi (†1963), incrociando il Barbera e il Cabernet Franc, attenuando l’asprezza del Barbera con la morbidezza del Cabernet Franc. Al naso, floreale e intenso. Al gusto è secco, caldo e morbido, e si adatta bene a piatti di pasta e anche brasati. Ottimo a bassa temperatura con pesce di lago. Servire a 14-16°C. 11,5% vol. 
 
-- Vendemmia 2023, Bottiglia da 750ml - €8 
-- Vendemmia 2021, Bottiglia da 750ml, affinato in legno - €9 SOLD OUT (annata 2023 disponibile partendo da fine febbraio 2025)
+
+- Vendemmia 2023, Bottiglia da 750ml - €8 (versione affinata in legno disponibile prossimamente!)
+- Vendemmia 2021, Bottiglia da 750ml, affinato in legno - €9 SOLD OUT 
 
 -----
 
