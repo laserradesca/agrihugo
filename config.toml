@@ -23,7 +23,7 @@ canonifyurls = true
     [languages.it.params]
       [languages.it.params.address]
         openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno al 26 luglio 2024 ci troverete nei campi tra i seguenti orari:"
-        openingHours = "<ul></ul>Martedì ore 16 - 20<ul>Giovedì ore 16 - 20<ul>Sabato ore 16 - 20</ul><ul>Tra poco comunicheremo nuove aperture da settembre 2024!</ul>"
+        openingHours = "<ul></ul>Martedì ore 16 - 20<ul>Giovedì ore 16 - 20<ul>Sabato ore 16 - 20</ul><ul>Tra poco comunicheremo nuove aperture per la stagione 2025!</ul>"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
@@ -55,7 +55,7 @@ canonifyurls = true
     [languages.en.params]
       [languages.en.params.address]
         openingDesc = "Fresh fruit picking, wine tastings, local produce, workshops and events... from 4th June til 26th July 2024 you will find us at the farm during the following hours:"
-        openingHours = "<ul>Tuesdays 4pm - 8pm<ul>Thursdays 4pm - 8pm<ul>Saturdays 4pm - 8pm</ul><ul>WE will soon be announcing new opening hours from september 2024!</ul>"
+        openingHours = "<ul>Tuesdays 4pm - 8pm<ul>Thursdays 4pm - 8pm<ul>Saturdays 4pm - 8pm</ul><ul>WE will soon be announcing new opening hours for the 2025 season!</ul>"
         toBook = "For info, or to set up a visit by appointment:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
