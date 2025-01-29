@@ -25,7 +25,7 @@ Our English language courses are designed especially for Italian native speakers
 
 [Lessons with Le Musicoccole](https://elisapaganellimtp.com/ "Form") First approaches to music for families with children 0-3 years
 
-[Farm Weeks 2024:](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form") Summer camp for kids aged 5-11 years
+[Farm Weeks 2024:](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form") Summer camp for kids aged 5-11 years - enrollments for 2025 open in april
 
 [Sani, Salvi e Selvatici Maggio 2024:](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form") Forest safety skills and awareness for kids aged 7-11 years
 
