@@ -21,7 +21,7 @@ Non trattiamo l'inglese come una materia scolastica, ma come uno strumento per i
 ---
 ### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
 
-[FARM LABS: spring 2025](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Un percorso di laboratori di natura in lingua inglese per bambini 6-10 anni
+[FARM LABS: spring 2025](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Un percorso di laboratori di natura in lingua inglese per bambini 3-11 anni
 
 [Incontri con Le Musicoccole](https://elisapaganellimtp.com/ "Form") programma per la stagione 2025 verrà pubblicata prossimamente
 
