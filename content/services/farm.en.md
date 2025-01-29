@@ -21,7 +21,7 @@ Our English language courses are designed especially for Italian native speakers
 ---
 ### INFO AND ENROLLMENTS FOR UPCOMING LABS AND EVENTS
 
-[FARM LABS: autumn edition](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Nature workshops in English for kids aged 6-10 year
+[FARM LABS: spring 2025](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Nature workshops in English for kids aged 3-11 years
 
 [Lessons with Le Musicoccole](https://elisapaganellimtp.com/ "Form") First approaches to music for families with children 0-3 years
 

@@ -21,11 +21,11 @@ Non trattiamo l'inglese come una materia scolastica, ma come uno strumento per i
 ---
 ### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
 
-[FARM LABS: autumn edition](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Un percorso di laboratori di natura in lingua inglese per bambini 6-10 anni
+[FARM LABS: spring 2025](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Un percorso di laboratori di natura in lingua inglese per bambini 6-10 anni
 
-[Incontri con Le Musicoccole](https://elisapaganellimtp.com/ "Form") Un percorso di musicalità per famiglie con bambini 0-3 anni
+[Incontri con Le Musicoccole](https://elisapaganellimtp.com/ "Form") programma per la stagione 2025 verrà pubblicata prossimamente
 
-[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form") Camp estivo per bambini 5-11 anni
+[Farm Weeks 2024](https://forms.gle/sF5VDw3kdhEwgu6g8 "Form") Camp estivo per bambini 5-11 anni - iscrizione per 2025 aprono ad aprile
 
 [Sani, Salvi e Selvatici Maggio 2024](https://forms.gle/SUyV8yBbPc2mWcsT7 "Form") Skills, sicurezza e consapevolezza in natura per bambini 7-11 anni
 
