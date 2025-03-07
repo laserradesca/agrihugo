@@ -5,7 +5,7 @@ featureImage: images/content/test/website_announcement.png
 tags: [ "boh"]
 images: ["images/content/farmlearning/learning_2.jpg","images/content/farmlearning/learning_hero.jpg","images/content/farmlearning/learning_3.jpg"]
 ---
-## 
+## [Cliccate qui per ascoltare Farm Labs Songs](https://open.spotify.com/album/1NC65jnV4MpUGRAU1vVbdA?si=NHNDoqibTP6tTeP6kbZnRQ "Farm Labs Songs su Spotify")
 
  
 
