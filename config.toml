@@ -22,8 +22,7 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno al 26 luglio 2024 ci troverete nei campi tra i seguenti orari:"
-        openingHours = "<ul></ul>Martedì ore 16 - 20<ul>Giovedì ore 16 - 20<ul>Sabato ore 16 - 20</ul><ul>Tra poco comunicheremo nuove aperture per la stagione 2025!</ul>"
+        openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno al 31 luglio 2025 ci troverete nei campi ogni giovedì ore 16 - 20, senza bisogno di prenotare. Per fissare una visita in alri momenti, chiamateci pure: 342 6385086 - Lauren</ul><ul>Tra poco comunicheremo nuove aperture per la stagione 2025!</ul>"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
