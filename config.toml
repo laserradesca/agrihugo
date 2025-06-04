@@ -22,7 +22,7 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno al 31 luglio 2025 ci troverete nei campi ogni giovedì ore 16 - 20, senza bisogno di prenotare. Per fissare una visita in altri momenti, chiamateci pure: 342 6385086 - Lauren</ul><ul>Tra poco comunicheremo nuove aperture per la stagione 2025!</ul>"
+        openingDesc = "Raccolta in campo frutti, assaggi di vino e prodotti nostrani, laboratori ed eventi... dal 4 giugno al 31 luglio 2025 ci troverete nei campi ogni giovedì ore 16 - 20, senza bisogno di prenotare. Per fissare una visita in altri momenti, chiamateci pure: 342 6385086 - Lauren."
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
@@ -53,7 +53,8 @@ canonifyurls = true
       weight = 3
     [languages.en.params]
       [languages.en.params.address]
-        openingDesc = "Fresh fruit picking, wine tastings, local produce, workshops and events... from 4th June til 31st July 2025 you will find us at the farm every Thursday 4pm - 8pm. No need to book! To set up an appointment during other hours, call us: +39 342 6385086 - Lauren.</ul><ul>WE will soon be announcing new opening hours for the 2025 season!</ul>"
+        openingDesc = "Fresh fruit picking, wine tastings, local produce, workshops and events... from 4th June til 31st July 2025 you will find us at the farm every Thursday 4pm - 8pm. No need to book! To set up an appointment during other hours, call us: +39 342 6385086 - Lauren.
+        <ul>We will soon be announcing new opening hours for the 2025 season!</ul>"
         toBook = "For info, or to set up a visit by appointment:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
