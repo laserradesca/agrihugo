@@ -54,7 +54,6 @@ canonifyurls = true
     [languages.en.params]
       [languages.en.params.address]
         openingDesc = "Fresh fruit picking, wine tastings, local produce, workshops and events. From 4th June til 31st July 2025 you will find us at the farm every Thursday 4pm - 8pm. No need to book! To set up an appointment during other hours, call us: +39 342 6385086 - Lauren.
-        <ul>We will soon be announcing new opening hours for the 2025 season!</ul>"
         toBook = "For info, or to set up a visit by appointment:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
