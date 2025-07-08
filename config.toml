@@ -22,7 +22,7 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "Siamo aperti ogni giovedì dalle ore 16 alle ore 20. Non bisogna prenotare! Per fissare una visita in altri momenti, conttatateci pure:"
+        openingDesc = "Siamo aperti ogni giovedì dalle ore 16 alle ore 20. Non bisogna prenotare! Per fissare una visita in altri momenti, contattateci pure:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
