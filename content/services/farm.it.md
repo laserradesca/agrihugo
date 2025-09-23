@@ -21,4 +21,4 @@ Non trattiamo l'inglese come una materia scolastica, ma come uno strumento per i
 ---
 ### Cercate qualcosa customizzata?
 
-([Contattateci]({{< ref "contact">}} "Contact us") per preventivi e prenotazioni
+[Contattaci]({{< ref "contact">}} "Contact us") per preventivi e prenotazioni
