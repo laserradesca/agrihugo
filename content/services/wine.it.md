@@ -16,7 +16,7 @@ Il *Moscato Giallo* è una varietà storica per i viticoltori bergamaschi. Tradi
 *Incrocio Manzoni 6.0.13* è un vitigno creato negli anni ‘30 dal Prof. Luigi Manzoni (1888-1968), incrociando il Riesling Renano con il Pinot Bianco. Questo vino è ideale con zuppe, piatti di riso, pesce e carni bianche. Ha una buona struttura, leggermente aspro sul finale. Servire a 10-12°C. 
 
 - Vendemmia 2021, 14% vol. Bottiglia da 750ml - €8,50
-- Spumante METODO CLASSICO BRUT, vendemmia 2023, Bottiglia da 750ml (13% vol.)- €14
+- Spumante METODO CLASSICO BRUT, vendemmia 2023, Bottiglia da 750ml (13% vol.) - €14
 
 -----
 
