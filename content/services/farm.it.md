@@ -19,7 +19,7 @@ Tutte le nostre visite sono offerte anche in lingua inglese, gestite da Lauren, 
 Non trattiamo l'inglese come una materia scolastica, ma come uno strumento per interagire, percepire e comunicare con il mondo. Creiamo opportunità continue per utilizzare la lingua inglese in modo spontaneo e pratico, allenando anche il coraggio di sbagliare, sempre orientati verso un apprendimento più completo della lingua. I nostri corsi in lingua inglese sono progettati specificamente per madrelingua italiani, basati sul metodo *Content and Language Integrated Learning ([CLIL](https://en.wikipedia.org/wiki/Language_immersion "Wikipedia"))*, col quale l’apprendimento degli obiettivi linguistici viene ottenuto tramite l’utilizzo pratico delle competenze della lingua inglese mentre si imparano i contenuti dei laboratori. Il metodo CLIL non solo incoraggia la ritenzione delle competenze linguistiche, ma crea anche tante opportunità per gli studenti di improvvisare con l’inglese ed essere creativi in situazioni al di fuori della loro zona di comfort.
 
 ---
-### INFO E ISCRIZIONI PER LABORATORI ED EVENTI IN PROGRAMMA
+### [Cercate qualcosa customizzata?]({{< ref "contact">}} "Contact us") Contattateci per preventivi e prenotazioni
 
 [FARM LABS: spring 2025](https://forms.gle/8H2YfDJpX5Uihnp87/ "Form") Un percorso di laboratori di natura in lingua inglese per bambini 3-11 anni
 

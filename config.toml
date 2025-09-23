@@ -22,7 +22,7 @@ canonifyurls = true
       weight = 3
     [languages.it.params]
       [languages.it.params.address]
-        openingDesc = "Per il mese di agosto siamo aperti solo su appuntamento. Per fissare una visita contattateci pure:"
+        openingDesc = "Inquesto periodo siamo aperti solo su appuntamento. Per fissare una visita contattateci pure:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
@@ -53,8 +53,8 @@ canonifyurls = true
       weight = 3
     [languages.en.params]
       [languages.en.params.address]
-        openingDesc = "During August we are open only by appointment. Feel free to get in touch!"
-        toBook = "For info, or to set up a visit by appointment:"
+        openingDesc = "We are currently open for visits by appointment. Feel free to get in touch!"
+        toBook = "For info, or to set up a visit:"
         facebookicon = "images/social/facebook_white.png"
         facebookurl = "https://www.facebook.com/laserradesca/"
         instagramicon = "images/social/instagram_white.png"
