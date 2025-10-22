@@ -7,7 +7,7 @@ images: ["images/content/wine/wine_1.jpg","images/content/wine/wine_3.jpg","imag
 ---
 We produce three grape varieties particular to the Bergamo region.
 
-Our *Moscato Giallo* grape is an historical variety for Bergamo winegrowers. This grape is usually cultivated to produce dessert (passito) wine, but we have chosen a classic, dry winemaking method, obtaining an excellent before-dinner wine. Our *Moscato Giallo* has an intense, tropical perfume coupled with a light, mineral flavour. Serve at 10-12°C. 12,5% Alc. by vol.
+Our *Moscato Giallo* grape is an historical variety for Bergamo winegrowers. This grape is usually cultivated to produce dessert (passito) wine, but we have chosen a classic, dry winemaking method, obtaining an excellent pre-dinner wine. Our *Moscato Giallo* has an intense, tropical perfume coupled with a light, mineral flavour. Serve at 10-12°C. 12,5% Alc. by vol.
 
 -----
 
