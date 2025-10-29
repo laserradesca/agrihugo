@@ -19,7 +19,7 @@ All visits are also offered in English, run by Lauren, farm owner and native Eng
 Our English language courses are designed especially for Italian native speakers, with a focus on Content and Language Integrated Learning ([CLIL](https://en.wikipedia.org/wiki/Language_immersion "Wikipedia")) methodology, whereby language learning objectives are gradually achieved as participants practise targeted English skills as they learn the lesson content. We do not treat English as a school subject but as a tool for interacting, perceiving, and communicating with the world. We create opportunities to use the English language in a spontaneous and practical way, also fostering the courage to make mistakes, aimed at achieving a more complete understanding of the language. This method not only encourages language skill retention through learning by experience, but also creates opportunities for students to improvise with the language and be creative in situations outside their comfort zone. 
 
 ---
-### From October 2025 we have suspended bookings for educational visits to dedicate more time to managing the fields and our farm workshop.
+### From October 2025 we have suspended bookings for educational visits to dedicate more time to managing the fields and our farm workshop. Join our newsletter below for updates on the reopening!
 
 [Contact us]({{< ref "contact">}} "Contact us") to get to know the project in the meantime while we get organised to reopen events,
 
