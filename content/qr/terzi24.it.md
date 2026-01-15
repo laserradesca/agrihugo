@@ -6,7 +6,7 @@ tags: [ "boh"]
 aliases: ["/disposal/disposal"]
 images: ["images/content/wine/wine_1.jpg","images/content/wine/wine_3.jpg","images/content/wine/wine_2.jpg"]
 ---
-## consulta questa tabella per tutte le indicazioni sullo smaltimento responsabile del nostro Metodo Classico.
+## consulta questa tabella per tutte le indicazioni sullo smaltimento responsabile.
 
  
 
